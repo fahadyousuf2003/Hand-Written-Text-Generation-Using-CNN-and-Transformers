@@ -15,7 +15,6 @@ This project showcases a handwritten text generation model developed using a com
 - [Overview](#overview)
 - [Key Features](#key-features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Model Architecture](#model-architecture)
 - [Data Preparation](#data-preparation)
 - [Training](#training)
